@@ -1,0 +1,17 @@
+smooth rods
+z 341mm
+y 460mm
+x 380mm
+
+y belt 880mm
+
+M4x20   28pz
+M4x15   13pz
+M3x10	8pz
+wood screw M3x15 2pz
+wood screw M3x12 6pz
+plastic screws    2pz
+
+I'll definitely need to do a better bom, but this is the minimum you need to know to start right away.
+
+Sogno3D
